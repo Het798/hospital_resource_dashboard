@@ -1,0 +1,16 @@
+Department,Resource,Total,In Use,Available,Status
+Emergency,Beds,100,90,10,Normal
+ICU,ICU Beds,30,25,5,Warning
+ICU,Ventilators,20,20,0,Critical
+General,Nurses,60,45,15,Normal
+Surgery,Operating Rooms,10,8,2,Critical
+Lab,COVID Kits,500,480,20,Normal
+Emergency,Oxygen Cylinders,200,190,10,Normal
+Pediatrics,Cribs,50,45,5,Warning
+Maternity,Delivery Beds,25,23,2,Critical
+Cardiology,ECG Machines,15,14,1,Critical
+Oncology,Chemotherapy Units,12,9,3,Warning
+Neurology,CT Scanners,8,7,1,Critical
+Orthopedics,X-ray Machines,7,6,1,Critical
+General,Doctors,40,35,5,Warning
+ICU,Monitors,25,20,5,Warning
